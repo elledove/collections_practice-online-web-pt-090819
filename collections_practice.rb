@@ -45,11 +45,6 @@ end
 
 
 def add_s(array)
+  array.collect do 
   
-  #array.reject
-  array.each_with_index.collect do |n , index|
-    n << "s"
-    end
-    
-  #end
 end
