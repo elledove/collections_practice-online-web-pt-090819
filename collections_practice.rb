@@ -43,5 +43,5 @@ end
 
 
 
-#def add_s
-#end
+def add_s
+end
