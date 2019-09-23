@@ -47,7 +47,7 @@ end
 def add_s(array)
   
   #array.reject
-  array.each_with_index[0, 2, 3] do |n|
+  array.each_with_index[0] do |n|
     n << "s"
     end
     
