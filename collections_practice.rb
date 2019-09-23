@@ -47,6 +47,8 @@ end
 def add_s(array)
   array.each_with_index do |n|
     n << "s"
+    if array[1] ==
+    end
     
   end
 end
