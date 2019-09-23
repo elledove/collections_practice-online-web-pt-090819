@@ -45,4 +45,5 @@ end
 
 
 def add_s
+  add_s.
 end
