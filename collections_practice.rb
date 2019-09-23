@@ -45,5 +45,7 @@ end
 
 
 def add_s
-  add_s.each_with_index
+  add_s.each_with_index do
+    
+  end
 end
