@@ -44,8 +44,8 @@ end
 
 
 
-def add_s
-  add_s.each_with_index do |n|
+def add_s(array)
+  array.each_with_index do |n|
     n << "s"
     
   end
